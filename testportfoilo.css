@@ -1,0 +1,174 @@
+body{
+    background-color: black;
+    background-attachment: fixed;
+    box-sizing: content-box;
+    margin: 20px 100px;
+}
+.logo{
+    color: blue;
+    background-color: black;
+    border-radius: 10px;
+    border: 3px solid blue;
+    position: fixed;
+    padding: 3px;
+    font-size: 22px;
+}
+nav{
+    margin-left: 60%;
+    font-size: 19px;
+    text-decoration: none;
+    color: blue;
+    position: fixed;
+    margin-top: 30px;
+}
+.link{
+    text-decoration: none;
+}
+a:hover,
+a:active{
+    color: yellow;
+}
+a:visited{
+    color:green
+}
+.introduction{
+    width: 50%;
+    text-align: justify;
+    padding: 200px 0px;
+}
+.head1{
+    font-size: 35px;
+    color: blue;
+}
+.subhead1{
+    color: white;
+    font-size: 25px;
+}
+.info{
+    color: blue;
+    border-radius: 11%;
+    width: auto;
+    font-size: 23px;
+}
+.connect{
+    background-color: black;
+    color: white;
+    border:3px solid blue;
+    padding: 15px 23px;
+    font-size: 30px;
+    border-radius: 5%;
+}
+.hire{
+    background-color:black;
+    color: blue;
+    border:3px solid blue;
+    padding: 15px 23px;
+    font-size: 30px;
+    border-radius: 5%;
+}
+.aboutplusimage{
+    display: flex;
+    align-content: center;
+    gap: 75px;
+    padding: 30px;
+    background-color: black;
+    border: 2px double blue;
+}
+.aboutimage{
+    width: 50%;
+    max-width: 400px;
+    max-height: auto;
+    box-sizing: border-box;
+    border: 3px solid blue;
+    border-radius: 8%;
+}
+.about{
+    width: 50%;
+}
+.head2{
+    font-size: 35px;
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+}
+.aboutbody{
+    color: blue;
+    border-radius: 1%;
+    font-size: 23px;
+    text-align: justify;
+    font-weight: 420;
+}
+.skillsprojects{
+    display: flex;
+    align-content: center;
+    gap: 120px;
+    padding: 30px;
+    margin:120px 0px;
+}
+.skills{
+    width: 50%;
+    border: 3px solid blue;
+    border-radius: 5%;
+    padding: 30px;
+}
+.projects{
+    width: 50%;
+    border: 3px solid blue;
+    border-radius: 5%;
+    padding: 30px;
+}
+.skillsh{
+    font-size: 35px;
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+}
+.skillsp{
+    color: blue;
+    border-radius: 1%;
+    font-size: 25px;
+    text-align: justify;
+}
+.projectsh{
+    font-size: 35px;
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+} 
+.projectsp{
+    color: blue;
+    border-radius: 1%;
+    font-size: 25px;
+    text-align: justify;
+}    
+.sectionBhead{
+    font-size: 35px;
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+}
+.sectionBbody{
+    color: blue;
+    border-radius: 1%;
+    font-size: 23px;
+    text-align: justify;
+    font-weight: 400;
+}
+.sectionB{
+    margin-top: 200px;
+}
+footer{
+    background-color: blue;
+}
+.lastnav{
+    margin-left: 60%;
+    font-size: 19px;
+    text-decoration: none;
+    color: black;
+    margin-top: 30px;
+    background-color: blue ;
+}
+.copy{
+    text-align: center;
+    padding: 10px;
+}
